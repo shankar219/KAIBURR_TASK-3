@@ -42,9 +42,9 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - **Compilation**:
 ![Compilation Success](screenshots/compilation.png)
 - **Application Running**:
-![App Running](screenshots/running.png)
-- **MongoDB Connection**:
-![MongoDB Check](screenshots/mongodb.png)
+![App Running](screenshots/app_running.png)
+- **Backend Running**:
+![backend Check](screenshots/backend_running.png)
 
 ## Project Structure
 KAIBURR_TASK-3/
