@@ -44,6 +44,16 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - **Backend Running**: Terminal showing Task 1 Spring Boot and MongoDB.
 
 ## Project Structure
+KAIBURR_TASK-3/
+├── public/           # Static assets
+├── src/              # React components and logic
+│   ├── App.jsx      # Main app component
+│   ├── TaskList.jsx # Task table component
+│   ├── TaskForm.jsx # Task creation form
+│   └── index.css    # Tailwind CSS styles
+├── index.html        # Entry point
+├── package.json      # Dependencies and scripts
+└── vite.config.js    # Vite configuration
 
 ## Notes
 - The frontend assumes the Task 1 backend is operational. Ensure MongoDB and the Spring Boot app are running before starting the frontend.
