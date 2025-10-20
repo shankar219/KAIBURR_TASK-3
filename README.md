@@ -39,9 +39,9 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - `DELETE /api/tasks/{id}`: Delete a task by ID.
 
 ## Screenshots
-- **Compilation**: Capture the terminal output of `npm install` and `npm run dev` commands. Include a timestamp by running `echo Suram - 06:37 PM IST, Oct 20, 2025` before the screenshot. Save as (screenshots\compilation.png).
-- **App Running**: Take a screenshot of the browser at `http://localhost:5173` showing the task management UI with at least one task listed. Save as (screenshots\app_running.png).
-- **Backend Running**: Screenshot the terminal running the Task 1 Spring Boot application (`mvn spring-boot:run`) and the MongoDB instance (`mongod --dbpath "C:\data\db"`). Save as (screenshots\backend_running.png).
+- **Compilation**: <image-card alt="Compilation" src="screenshots/compilation.png" ></image-card>
+- **App Running**: <image-card alt="App Running" src="screenshots/app_running.png" ></image-card>
+- **Backend Running**: <image-card alt="Backend Running" src="screenshots/backend_running.png" ></image-card>
 ## Project Structure
 KAIBURR_TASK-3/
 
