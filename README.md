@@ -42,6 +42,7 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - **Compilation**: <image-card alt="Compilation" src="screenshots/compilation.png" ></image-card>
 - **App Running**: <image-card alt="App Running" src="screenshots/app_running.png" ></image-card>
 - **Backend Running**: <image-card alt="Backend Running" src="screenshots/backend_running.png" ></image-card>
+
 ## Project Structure
 KAIBURR_TASK-3/
 
