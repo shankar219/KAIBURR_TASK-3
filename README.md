@@ -39,9 +39,12 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - `DELETE /api/tasks/{id}`: Delete a task by ID.
 
 ## Screenshots
-- **Compilation**: <image-card alt="Compilation" src="screenshots/compilation.png" ></image-card>
-- **App Running**: <image-card alt="App Running" src="screenshots/app_running.png" ></image-card>
-- **Backend Running**: <image-card alt="Backend Running" src="screenshots/backend_running.png" ></image-card>
+- **Compilation**:
+![Compilation Success](screenshots/compilation.png)
+- **Application Running**:
+![App Running](screenshots/running.png)
+- **MongoDB Connection**:
+![MongoDB Check](screenshots/mongodb.png)
 
 ## Project Structure
 KAIBURR_TASK-3/
