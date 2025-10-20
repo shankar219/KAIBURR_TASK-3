@@ -39,21 +39,30 @@ This project is part of the Kaiburr Assessment Task 3, developed by Suram. It im
 - `DELETE /api/tasks/{id}`: Delete a task by ID.
 
 ## Screenshots
-- **Compilation**: `npm install` and `npm run dev` output (with timestamp: Suram - 06:27 PM IST, Oct 20, 2025).
-- **App Running**: Browser view of the task management UI.
-- **Backend Running**: Terminal showing Task 1 Spring Boot and MongoDB.
-
+- **Compilation**: Capture the terminal output of `npm install` and `npm run dev` commands. Include a timestamp by running `echo Suram - 06:37 PM IST, Oct 20, 2025` before the screenshot. Save as (screenshots\compilation.png).
+- **App Running**: Take a screenshot of the browser at `http://localhost:5173` showing the task management UI with at least one task listed. Save as (screenshots\app_running.png).
+- **Backend Running**: Screenshot the terminal running the Task 1 Spring Boot application (`mvn spring-boot:run`) and the MongoDB instance (`mongod --dbpath "C:\data\db"`). Save as (screenshots\backend_running.png).
 ## Project Structure
 KAIBURR_TASK-3/
+
 ├── public/           # Static assets
+
 ├── src/              # React components and logic
+
 │   ├── App.jsx      # Main app component
+
 │   ├── TaskList.jsx # Task table component
+
 │   ├── TaskForm.jsx # Task creation form
+
 │   └── index.css    # Tailwind CSS styles
+
 ├── index.html        # Entry point
+
 ├── package.json      # Dependencies and scripts
+
 └── vite.config.js    # Vite configuration
+
 
 ## Notes
 - The frontend assumes the Task 1 backend is operational. Ensure MongoDB and the Spring Boot app are running before starting the frontend.
